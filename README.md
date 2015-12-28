@@ -1,6 +1,8 @@
 Description
 ===========
 
+[![Join the chat at https://gitter.im/deploybutton/chef-deploy-button](https://badges.gitter.im/deploybutton/chef-deploy-button.svg)](https://gitter.im/deploybutton/chef-deploy-button?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 DeployButton.com is a service that makes it easy to trigger deploys.
 
 It works particularly well with Chef, especially if you want your Chef server synchronized with your repository.
